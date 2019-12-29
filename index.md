@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/SotiriaSt/SotiriaSt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an electrical engineer with my main field of expertise being Telecommunications and Computer Networks. I have worked on the telecom support field as RF engineer and also on a personal project as network engineer and I have a great interest for Satellite Communications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have a M. Eng. from the School of Electrical and Computer Engineering of the National Technical University of Athens (NTUA), which is one of the most demanding universities for engineers in Greece. Currently I am pursuing a M.Eng in Cybersecurity at the university of Maryland in the US.
 
 ### Markdown
 
